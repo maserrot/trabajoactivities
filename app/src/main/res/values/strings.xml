@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">trabajoActivities</string>
+    <string name="tvNombreCompleto">Nombre Completo</string>
+    <string name="tvTelefono">Telefono</string>
+    <string name="tvMail">Mail</string>
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pmail">mail</string>
+    <string name="pfecha">fecha</string>
+    <string name="tvNombreCompletoView2">Nombre Completo: </string>
+    <string name="tvTelefonoView2">Telefono: </string>
+    <string name="tvMailView2">Mail: </string>
+    <string name="tvFechaView2">Fecha: </string>
+    <string name="accion_aceptar">Siguiente</string>
+    <string name="accion_editar">Editar</string>
+</resources>
